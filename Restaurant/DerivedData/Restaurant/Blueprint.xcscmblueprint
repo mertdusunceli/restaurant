@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "936038620266F05722B5479B93BE11881585D172",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "936038620266F05722B5479B93BE11881585D172" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "97F30524-DA09-4F4F-BF5D-C085A302C906",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "936038620266F05722B5479B93BE11881585D172" : "restaurant\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Restaurant",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Restaurant\/Restaurant.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mertdusunceli\/restaurant.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "936038620266F05722B5479B93BE11881585D172"
+    }
+  ]
+}
