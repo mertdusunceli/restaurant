@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "de828d2e7316e4b7e2679eba5e1e99e7"
+build_time: [1530132643, 989101000]
+inputs:
+  "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Restaurant/LoginViewController.swift": [1530132586, 0]
+  "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Restaurant/AppDelegate.swift": [1530130790, 0]

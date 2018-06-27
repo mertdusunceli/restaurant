@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>Z393G7VJ2B.com.mertdusunceli.Restaurant</string>
+	<string>Z393G7VJ2B.com.mertdusunceli.lecker</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>Z393G7VJ2B.com.mertdusunceli.Restaurant</string>
+		<string>Z393G7VJ2B.com.mertdusunceli.lecker</string>
 	</array>
 </dict>
 </plist>

@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>706968736444-bka3tne2ov58plhtumpp3mou984fflvn.apps.googleusercontent.com</string>
+	<string>7560415679-evr1g3md2897lhln4jdce6j2bqi148b9.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.706968736444-bka3tne2ov58plhtumpp3mou984fflvn</string>
+	<string>com.googleusercontent.apps.7560415679-evr1g3md2897lhln4jdce6j2bqi148b9</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCwzbyoBDuTV4b4vyGrIXxQPYNAU1agh_4</string>
+	<string>AIzaSyDMu7FpxcYyGDFuezqIiQezG-dINqs_Hec</string>
 	<key>GCM_SENDER_ID</key>
-	<string>706968736444</string>
+	<string>7560415679</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.mertdusunceli.Restaurant</string>
+	<string>com.mertdusunceli.lecker</string>
 	<key>PROJECT_ID</key>
-	<string>restaurant-28b8b</string>
+	<string>lecker-3d908</string>
 	<key>STORAGE_BUCKET</key>
-	<string>restaurant-28b8b.appspot.com</string>
+	<string>lecker-3d908.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:706968736444:ios:75bc1c64def86655</string>
+	<string>1:7560415679:ios:7ee32ef4dac763f9</string>
 	<key>DATABASE_URL</key>
-	<string>https://restaurant-28b8b.firebaseio.com</string>
+	<string>https://lecker-3d908.firebaseio.com</string>
 </dict>
 </plist>
