@@ -4,6 +4,148 @@
   'roots': [
     {
       'type': 'directory',
+      'name': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FIRActionCodeSettings.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRActionCodeSettings.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRAdditionalUserInfo.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAdditionalUserInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRAuth.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuth.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRAuthAPNSTokenType.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthAPNSTokenType.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRAuthCredential.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthCredential.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRAuthDataResult.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthDataResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRAuthErrors.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthErrors.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRAuthSettings.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthSettings.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRAuthTokenResult.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthTokenResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRAuthUIDelegate.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthUIDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIREmailAuthProvider.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIREmailAuthProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRFacebookAuthProvider.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRFacebookAuthProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRGitHubAuthProvider.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRGitHubAuthProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRGoogleAuthProvider.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRGoogleAuthProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIROAuthProvider.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIROAuthProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRPhoneAuthCredential.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRPhoneAuthCredential.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRPhoneAuthProvider.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRPhoneAuthProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRTwitterAuthProvider.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRTwitterAuthProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRUser.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRUser.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRUserInfo.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRUserInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRUserMetadata.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRUserMetadata.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseAuth-Swift.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseAuth-umbrella.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/Target Support Files/FirebaseAuth/FirebaseAuth-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseAuth.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FirebaseAuth.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseAuthVersion.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FirebaseAuthVersion.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
       'name': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers",
       'contents': [
         {
@@ -152,6 +294,53 @@
           'type': 'file',
           'name': "FIRVersion.h",
           'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseCore/Firebase/Core/Private/FIRVersion.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-Swift.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-umbrella.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherLogging.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherService.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionUploadFetcher.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap"
         }
       ]
     },

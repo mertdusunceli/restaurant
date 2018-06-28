@@ -2,35 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<string>Foundation</string>
-	<string>GoogleToolboxForMac</string>
-	<string>FirebaseMLVisionTextModel</string>
-	<string>FirebaseMLVisionLabelModel</string>
-	<string>FirebaseInstanceID</string>
-	<string>Firebase</string>
-	<string>FirebaseFirestore</string>
 	<string>GoogleMobileAds</string>
-	<string>FirebaseMLVisionFaceModel</string>
-	<string>FirebaseDatabase</string>
-	<string>Fabric</string>
-	<string>FirebaseAnalytics</string>
-	<string>FirebaseMLVisionBarcodeModel</string>
 	<string>FirebasePerformance</string>
+	<string>SafariServices</string>
+	<string>FirebaseDynamicLinks</string>
+	<string>objc</string>
+	<string>FirebaseAuth</string>
+	<string>Firebase</string>
+	<string>FirebaseCore</string>
+	<string>FirebaseMessaging</string>
 	<string>sys</string>
-	<string>FirebaseMLModelInterpreter</string>
+	<string>GTMSessionFetcher</string>
+	<string>FirebaseInstanceID</string>
+	<string>FirebaseMLVisionFaceModel</string>
+	<string>FirebaseMLVisionLabelModel</string>
+	<string>FirebaseFirestore</string>
+	<string>FirebaseDatabase</string>
 	<string>FirebaseRemoteConfig</string>
 	<string>Crashlytics</string>
-	<string>UIKit</string>
-	<string>FirebaseAuth</string>
-	<string>SystemConfiguration</string>
-	<string>FirebaseCrash</string>
-	<string>FirebaseMessaging</string>
-	<string>FirebaseCore</string>
-	<string>FirebaseInvites</string>
-	<string>FirebaseStorage</string>
-	<string>FirebaseDynamicLinks</string>
 	<string>FirebaseMLVision</string>
+	<string>FirebaseMLVisionBarcodeModel</string>
+	<string>FirebaseMLVisionTextModel</string>
+	<string>Foundation</string>
+	<string>Security</string>
+	<string>Fabric</string>
+	<string>FirebaseMLModelInterpreter</string>
+	<string>FirebaseCrash</string>
+	<string>WatchKit</string>
+	<string>FirebaseInvites</string>
+	<string>GoogleToolboxForMac</string>
+	<string>FirebaseStorage</string>
+	<string>SystemConfiguration</string>
 	<string>FirebaseFunctions</string>
-	<string>objc</string>
+	<string>FirebaseAnalytics</string>
+	<string>UIKit</string>
 </array>
 </plist>

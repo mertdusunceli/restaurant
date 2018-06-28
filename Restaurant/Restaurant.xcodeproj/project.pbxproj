@@ -13,6 +13,8 @@
 		2532261720BF1AFA006E9CF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2532261620BF1AFA006E9CF8 /* Assets.xcassets */; };
 		2532261A20BF1AFA006E9CF8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2532261820BF1AFA006E9CF8 /* LaunchScreen.storyboard */; };
 		2532262220BF1C45006E9CF8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2532262120BF1C45006E9CF8 /* GoogleService-Info.plist */; };
+		2588231F20E573CD001EF970 /* FoodTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2588231E20E573CD001EF970 /* FoodTableViewController.swift */; };
+		2588232120E58F7B001EF970 /* SelectPictureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2588232020E58F7B001EF970 /* SelectPictureViewController.swift */; };
 		FD1863D4561AC59715B7B2C5 /* Pods_Restaurant.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF4C848C20C226CA2F4DFE89 /* Pods_Restaurant.framework */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +27,8 @@
 		2532261920BF1AFA006E9CF8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2532261B20BF1AFA006E9CF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2532262120BF1C45006E9CF8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		2588231E20E573CD001EF970 /* FoodTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTableViewController.swift; sourceTree = "<group>"; };
+		2588232020E58F7B001EF970 /* SelectPictureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectPictureViewController.swift; sourceTree = "<group>"; };
 		65094455C0166BE325FCE720 /* Pods-Restaurant.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Restaurant.release.xcconfig"; path = "Pods/Target Support Files/Pods-Restaurant/Pods-Restaurant.release.xcconfig"; sourceTree = "<group>"; };
 		E3476BB81D8C2C9D0AE50C2F /* Pods-Restaurant.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Restaurant.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Restaurant/Pods-Restaurant.debug.xcconfig"; sourceTree = "<group>"; };
 		EF4C848C20C226CA2F4DFE89 /* Pods_Restaurant.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Restaurant.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +79,8 @@
 				2532262120BF1C45006E9CF8 /* GoogleService-Info.plist */,
 				2532260F20BF1AF6006E9CF8 /* AppDelegate.swift */,
 				2532261120BF1AF6006E9CF8 /* LoginViewController.swift */,
+				2588231E20E573CD001EF970 /* FoodTableViewController.swift */,
+				2588232020E58F7B001EF970 /* SelectPictureViewController.swift */,
 				2532261320BF1AF6006E9CF8 /* Main.storyboard */,
 				2532261620BF1AFA006E9CF8 /* Assets.xcassets */,
 				2532261820BF1AFA006E9CF8 /* LaunchScreen.storyboard */,
@@ -186,11 +192,13 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-Restaurant/Pods-Restaurant-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
 				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
 				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
 			);
@@ -207,7 +215,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				2532261220BF1AF6006E9CF8 /* LoginViewController.swift in Sources */,
+				2588232120E58F7B001EF970 /* SelectPictureViewController.swift in Sources */,
 				2532261020BF1AF6006E9CF8 /* AppDelegate.swift in Sources */,
+				2588231F20E573CD001EF970 /* FoodTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

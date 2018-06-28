@@ -10,5 +10,6 @@ target 'Restaurant' do
   # Pods for Restaurant
 
 pod 'Firebase/Core'
+pod 'Firebase/Auth'
 
 end
