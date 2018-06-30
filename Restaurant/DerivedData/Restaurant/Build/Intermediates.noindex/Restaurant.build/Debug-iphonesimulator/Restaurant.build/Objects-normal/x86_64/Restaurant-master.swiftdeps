@@ -1,8 +1,8 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "4d4517b73896b5e2d0fa5e3ed5d146b4"
-build_time: [1530224382, 629168000]
+options: "b9ee2ccd316cd9cec32197ef574338a6"
+build_time: [1530392356, 735478000]
 inputs:
   "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Restaurant/LoginViewController.swift": [1530216198, 0]
-  "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Restaurant/SelectPictureViewController.swift": [1530224306, 0]
+  "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Restaurant/SelectPictureViewController.swift": [1530392355, 0]
   "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Restaurant/AppDelegate.swift": [1530130790, 0]
   "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Restaurant/FoodTableViewController.swift": [1530216214, 0]

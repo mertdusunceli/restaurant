@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import FirebaseStorage
 
 class SelectPictureViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
 
@@ -52,21 +53,44 @@ class SelectPictureViewController: UIViewController, UIImagePickerControllerDele
     }
     
     @IBAction func nextTapped(_ sender: Any) {
+        
+        //delete this for production
+        nameTextField.text = "test"
+        ratingTextField.text = "test1"
+        imageAdded = true
+        
         if let name = nameTextField.text {
             if let rating = ratingTextField.text {
                 if imageAdded && name != "" && rating != "" {
-                    // segue to next VC
+                    // upload picture to firebase
+                    let imagesFolder = Storage.storage().reference().child("images")
+                    if let image = imageView.image {
+                        if let imageData = UIImageJPEGRepresentation(image, 0.1) {
+                            
+                            imagesFolder.child("\(NSUUID().uuidString).jpg").putData(imageData, metadata: nil) { (metadata, error) in
+                                if let error = error {
+                                    self.presentAlert(alert: error.localizedDescription)
+                                } else {
+                                    // segue to next VC
+                                }
+                            }
+                        }
+                    }
                 } else {
                     // Error, missing fields
-                    let alertVC = UIAlertController(title: "Error", message: "You must provide a photo, a name and a rating", preferredStyle: .alert)
-                    let okAction = UIAlertAction(title: "OK", style: .default) { (action) in
-                        alertVC.dismiss(animated: true, completion: nil)
-                    }
-                    alertVC.addAction(okAction)
-                    present(alertVC, animated: true, completion: nil)
+                    self.presentAlert(alert: "You must provide a photo, a name and a rating")
                 }
             }
         }
+    }
+    
+    func presentAlert(alert: String) {
+        let alertVC = UIAlertController(title: "Error", message: alert, preferredStyle: .alert)
+        let okAction = UIAlertAction(title: "OK", style: .default) { (action) in
+            alertVC.dismiss(animated: true, completion: nil)
+        }
+        alertVC.addAction(okAction)
+        present(alertVC, animated: true, completion: nil)
     }
     
 }

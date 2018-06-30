@@ -299,6 +299,83 @@
     },
     {
       'type': 'directory',
+      'name': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Products/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FIRStorage.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorage.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRStorageConstants.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRStorageDownloadTask.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageDownloadTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRStorageMetadata.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageMetadata.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRStorageObservableTask.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageObservableTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRStorageReference.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageReference.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRStorageTask.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRStorageTaskSnapshot.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTaskSnapshot.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRStorageUploadTask.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageUploadTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseStorage-Swift.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Products/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseStorage-umbrella.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/Target Support Files/FirebaseStorage/FirebaseStorage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseStorage.h",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/Pods/FirebaseStorage/Firebase/Storage/Public/FirebaseStorage.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Products/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
       'name': "/Users/mertdusunceli/Desktop/projects/simple ios/restaurant/Restaurant/DerivedData/Restaurant/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
       'contents': [
         {

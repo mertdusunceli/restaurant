@@ -1,10 +1,10 @@
 ### Swift dependencies file v0 ###
 provides-top-level:
-- "RestaurantsTableViewController"
+- "FoodTableViewController"
 provides-nominal:
-- "10Restaurant30RestaurantsTableViewControllerC"
+- "10Restaurant23FoodTableViewControllerC"
 provides-member:
-- ["10Restaurant30RestaurantsTableViewControllerC", ""]
+- ["10Restaurant23FoodTableViewControllerC", ""]
 provides-dynamic-lookup:
 - "logOutTapped"
 - "numberOfSections"
@@ -13,8 +13,8 @@ provides-dynamic-lookup:
 depends-top-level:
 - !private "Auth"
 - !private "BooleanLiteralType"
+- "FoodTableViewController"
 - "Int"
-- "RestaurantsTableViewController"
 - "UITableView"
 - "UITableViewController"
 depends-member:
@@ -48,6 +48,16 @@ depends-member:
 - !private ["s9EquatableP", "init"]
 - !private ["s9EquatableP", "signOut"]
 - !private ["s9EquatableP", "viewDidLoad"]
+- !private ["10Restaurant23FoodTableViewControllerC", "Auth"]
+- ["10Restaurant23FoodTableViewControllerC", "Int"]
+- ["10Restaurant23FoodTableViewControllerC", "UITableView"]
+- ["10Restaurant23FoodTableViewControllerC", "deinit"]
+- !private ["10Restaurant23FoodTableViewControllerC", "dismiss"]
+- ["10Restaurant23FoodTableViewControllerC", "init"]
+- ["10Restaurant23FoodTableViewControllerC", "logOutTapped"]
+- ["10Restaurant23FoodTableViewControllerC", "numberOfSections"]
+- ["10Restaurant23FoodTableViewControllerC", "tableView"]
+- ["10Restaurant23FoodTableViewControllerC", "viewDidLoad"]
 - !private ["s8HashableP", "Auth"]
 - ["s8HashableP", ""]
 - !private ["s8HashableP", "auth"]
@@ -83,16 +93,6 @@ depends-member:
 - !private ["So16NSObjectProtocolP", "init"]
 - !private ["So16NSObjectProtocolP", "signOut"]
 - !private ["So16NSObjectProtocolP", "viewDidLoad"]
-- !private ["10Restaurant30RestaurantsTableViewControllerC", "Auth"]
-- ["10Restaurant30RestaurantsTableViewControllerC", "Int"]
-- ["10Restaurant30RestaurantsTableViewControllerC", "UITableView"]
-- ["10Restaurant30RestaurantsTableViewControllerC", "deinit"]
-- !private ["10Restaurant30RestaurantsTableViewControllerC", "dismiss"]
-- ["10Restaurant30RestaurantsTableViewControllerC", "init"]
-- ["10Restaurant30RestaurantsTableViewControllerC", "logOutTapped"]
-- ["10Restaurant30RestaurantsTableViewControllerC", "numberOfSections"]
-- ["10Restaurant30RestaurantsTableViewControllerC", "tableView"]
-- ["10Restaurant30RestaurantsTableViewControllerC", "viewDidLoad"]
 - !private ["So21UIAppearanceContainerP", "Auth"]
 - ["So21UIAppearanceContainerP", ""]
 - !private ["So21UIAppearanceContainerP", "dismiss"]
@@ -184,12 +184,12 @@ depends-nominal:
 - "s28CustomDebugStringConvertibleP"
 - "s23CustomStringConvertibleP"
 - "s9EquatableP"
+- "10Restaurant23FoodTableViewControllerC"
 - "s8HashableP"
 - "So8NSCodingP"
 - "So26NSExtensionRequestHandlingP"
 - "So8NSObjectC"
 - "So16NSObjectProtocolP"
-- "10Restaurant30RestaurantsTableViewControllerC"
 - "So21UIAppearanceContainerP"
 - "So18UIContentContainerP"
 - "So18UIFocusEnvironmentP"
@@ -275,4 +275,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
-interface-hash: "cdf4272a961e3b22bffe66f31a1c6eba"
+interface-hash: "2c63d8431004f7f16f4f872521527b95"

@@ -11,12 +11,14 @@
 	<string>Firebase</string>
 	<string>FirebaseCore</string>
 	<string>FirebaseMessaging</string>
+	<string>MobileCoreServices</string>
 	<string>sys</string>
 	<string>GTMSessionFetcher</string>
 	<string>FirebaseInstanceID</string>
 	<string>FirebaseMLVisionFaceModel</string>
 	<string>FirebaseMLVisionLabelModel</string>
 	<string>FirebaseFirestore</string>
+	<string>CoreServices</string>
 	<string>FirebaseDatabase</string>
 	<string>FirebaseRemoteConfig</string>
 	<string>Crashlytics</string>
@@ -27,8 +29,8 @@
 	<string>Security</string>
 	<string>Fabric</string>
 	<string>FirebaseMLModelInterpreter</string>
-	<string>FirebaseCrash</string>
 	<string>WatchKit</string>
+	<string>FirebaseCrash</string>
 	<string>FirebaseInvites</string>
 	<string>GoogleToolboxForMac</string>
 	<string>FirebaseStorage</string>
